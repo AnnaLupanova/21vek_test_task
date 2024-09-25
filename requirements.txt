@@ -1,0 +1,7 @@
+fastapi
+unicorn
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+redis
+httpx
